@@ -1,0 +1,44 @@
+.inline-block {
+    width: 100%;
+    background-color: #002d5c;
+    display: inline-block;
+}
+.navmenu {
+    display: inline-block;
+    margin: 5px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 55px;
+    text-align: right;
+}
+.CTA {
+    background-color: #006ba6;
+    text-align: center;
+    height: 80px;
+    width: 825px;
+    margin-left: 500px;
+    border-radius: 10px;
+}
+h1 {
+    color: #F9C22E;
+    font-family: Righteous;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.form {
+    text-align: center;
+    padding: 80px;
+}
+.submit {
+    margin-top: 5px;
+}
+footer {
+    background-color: #006ba6;
+}
+.align-right {
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
